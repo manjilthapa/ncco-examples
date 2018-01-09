@@ -7,11 +7,11 @@
     "action": "connect",
     "eventUrl": ["https://example.com/events","https://example.com/backup"],
     "timeout": "45",
-    "from": "447700900007",
+    "from": "45787589865",
      "endpoint": [
       {
         "type": "phone",
-        "number": "447700900000"
+        "number": "4542155183"
       }
     ]
   }

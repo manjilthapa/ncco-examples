@@ -5,13 +5,5 @@
   },
   {
     "action": "connect",
-    "from": "4578759865",
-    "eventUrl": ["https://hookb.in/Z6OmlqWn"],
-     "endpoint": [
-      {
-        "type": "phone",
-        "number": "4542155183"
-      }
-    ]
   }
 ]

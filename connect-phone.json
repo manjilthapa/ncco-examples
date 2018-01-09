@@ -1,4 +1,9 @@
 [
+  [
+  {
+    "action": "talk",
+    "text": "Please wait while we connect you"
+  },
   {
     "action": "connect",
     "from": "4578759865",

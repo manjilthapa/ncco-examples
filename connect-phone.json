@@ -1,10 +1,16 @@
  [
   {
+    "action": "talk",
+    "text": "Please wait while we connect you"
+  },
+  {
     "action": "connect",
+    "from": "4578759865",
     "eventUrl": ["https://hookb.in/Z6OmlqWn"],
      "endpoint": [
       {
-        "type": "phone"
+        "type": "phone",
+        "number": "4542155183"
       }
     ]
   }

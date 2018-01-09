@@ -1,7 +1,6 @@
 [
   {
     "action": "connect",
-    "timeout": "45",
     "from": "45787589865",
      "endpoint": [
       {

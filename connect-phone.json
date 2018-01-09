@@ -1,11 +1,17 @@
- [
-  {
-    "action": "connect",
-    "eventUrl": ["https://hookb.in/Z6OmlqWn"],
-     "endpoint": [
-      {
-        "type": "phone"
-      }
-    ]
-  }
+[
+    {
+        "action": "talk",
+        "text": "Please wait while we connect you."
+    },
+    {
+        "action": "connect",
+        "timeout": 45,
+        "from": "4578759865",
+        "endpoint": [
+            {
+                "type": "phone",
+                "number": "4523494060"
+            }
+        ]
+    }
 ]

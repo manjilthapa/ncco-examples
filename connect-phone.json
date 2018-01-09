@@ -1,5 +1,11 @@
-[
+ [
   {
     "action": "connect",
+    "eventUrl": ["https://hookb.in/Z6OmlqWn"],
+     "endpoint": [
+      {
+        "type": "phone"
+      }
+    ]
   }
 ]
